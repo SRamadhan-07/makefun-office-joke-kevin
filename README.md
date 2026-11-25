@@ -1,8 +1,8 @@
 # The Funniest Office Joke — make.fun entry
 
-![Competition](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c.svg)
-![Rank](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/SRamadhan-07/makefun-office-joke-kevin/rank.svg)
-![Reward](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/SRamadhan-07/makefun-office-joke-kevin/reward.svg)
+[![Competition](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
+[![Rank](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/SRamadhan-07/makefun-office-joke-kevin/rank.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
+[![Reward](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/SRamadhan-07/makefun-office-joke-kevin/reward.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
 
 A Python program that writes a short office joke: standup stays fifteen minutes because the blockers start naming names.
 
